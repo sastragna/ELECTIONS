@@ -15,6 +15,7 @@ Install these prerequisites
 
 
 ## Step 1. Clone the project
+https://github.com/sastragna/ELECTIONS
 
 
 ## Step 2. Install dependencies
